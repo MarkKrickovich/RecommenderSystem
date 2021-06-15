@@ -1,4 +1,4 @@
-# Recommender System with Supriselib
+# Recommender System with Surpriselib
 <center><img src="Images/surpriselib.png"/></center>
 
 ### Film Recommender Project:

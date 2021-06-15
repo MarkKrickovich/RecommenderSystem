@@ -1,7 +1,7 @@
 # Recommender System with Supriselib
 <center><img src="Images/surpriselib.png"/></center>
 
-### Film Recommender System
+### Film Recommender Project:
 This project includes code and insight from a 2018 LinkedIn Learning Course titled "Building Recommender Systems with Machine Learning and AI".  The code example provided represents a user-based and an item-based collaborative filtering.  
 
 ### Content-Based Filtering: 
